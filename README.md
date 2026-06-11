@@ -18,7 +18,7 @@ Kontrolor v terénu:
 2. **Nahraje fotografie** do aplikace – ta automaticky vyčte z EXIF metadat datum, čas a GPS polohu, doplní adresu umístění a zobrazí mapu.
 3. **QR kód** na reklamě je automaticky přečten; aplikace stáhne odkazovanou stránku s oznámením o transparentnosti a pomocí AI ověří přítomnost povinných náležitostí podle nařízení EU 2024/900.
 4. Kontrolor **doplní nebo upraví** zjištěné údaje a výsledek kontrolního checklist.
-5. Aplikace **vygeneruje úřední záznam** ve formátu `.docx` připravený k archivaci a dalšímu zpracování.
+5. Aplikace **vygeneruje podklady pro úřední záznam** ve formátu `.docx`, které kontrolor vloží do úředního záznamu v systému spisové služby.
 
 ## Právní základ
 
