@@ -4,7 +4,9 @@ Webová aplikace pro podporu terénního monitoringu politické reklamy v soulad
 
 ## O projektu
 
-Aplikaci provozuje **Úřad pro dohled nad hospodařením politických stran a politických hnutí (ÚDHPSH)** jako nástroj pro kontrolory provádějící terénní monitoring outdoorové politické reklamy (billboardy, bigboardy, citylighty, plakáty apod.).
+Jde o **osobní projekt**, který jsem vytvořil jako vlastní iniciativu – ruční vyplňování záznamů z terénního monitoringu mi přišlo zdlouhavé, takže jsem s pomocí [Claude Code](https://claude.ai/code) napsal tuto aplikaci. Aplikaci jsem následně poskytl k použití **Úřadu pro dohled nad hospodařením politických stran a politických hnutí (ÚDHPSH)**, jehož kontroloři ji využívají při terénním monitoringu outdoorové politické reklamy (billboardy, bigboardy, citylighty, plakáty apod.).
+
+Nejde o oficiální nástroj ani produkt úřadu.
 
 Aplikace je nasazena jako privátní webová služba přístupná oprávněným zaměstnancům úřadu.
 
@@ -34,5 +36,5 @@ Nařízení Evropského parlamentu a Rady **(EU) 2024/900** ze dne 13. března 2
 
 ## Kontakt
 
-Úřad pro dohled nad hospodařením politických stran a politických hnutí  
-[udhpsh.cz](https://www.udhpsh.cz)
+Jan Outlý  
+[jan@outly.cz](mailto:jan@outly.cz)
