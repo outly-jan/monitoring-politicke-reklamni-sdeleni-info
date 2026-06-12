@@ -15,7 +15,7 @@ Aplikace je nasazena jako privátní webová služba přístupná oprávněným 
 Kontrolor v terénu:
 
 1. **Pořídí fotodokumentaci** reklamního nosiče (celkový pohled, detail vizuálu, označení plochy, QR kód).
-2. **Nahraje fotografie** do aplikace – ta automaticky vyčte z EXIF metadat datum, čas a GPS polohu, doplní adresu umístění a zobrazí mapu.
+2. **Nahraje fotografie** do aplikace – ta automaticky vyčte z EXIF metadat datum, čas a GPS polohu a doplní úplnou adresu včetně PSČ, obce, okresu a kraje (Mapy.cz + Photon/OSM), a zobrazí mapu.
 3. **QR kód** na reklamě je automaticky přečten (aplikace zkouší více způsobů zpracování obrazu pro spolehlivější detekci); aplikace stáhne odkazovanou stránku s oznámením o transparentnosti a pomocí AI ověří přítomnost povinných náležitostí podle nařízení EU 2024/900.
 4. Kontrolor **doplní nebo upraví** zjištěné údaje a výsledek kontrolního checklist.
 5. Aplikace **vygeneruje podklady pro úřední záznam** ve formátu `.docx`, které kontrolor vloží do úředního záznamu v systému spisové služby.
